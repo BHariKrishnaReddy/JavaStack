@@ -19,3 +19,12 @@ Final Methods: These methods cannot be overridden by a subclass. They are typica
 Synchronized Methods: These methods are used to control access to shared resources in a multi-threaded environment. Only one thread can execute a synchronized method at a time.
 
 Native Methods: These methods are implemented in a language other than Java, typically in C or C++. They are used to access system resources or to provide low-level functionality that is not available in Java.
+
+
+---
+
+Methods in JAVA
+
+1. If a method is static you need to call it with class when required !
+2. If a method is non-static you need to call it with the instance or Object of the class when required !
+3. You can not call a Static method inside Non_static them dierctly (Use 1 to call) and viceversa (Use 2 to call)
