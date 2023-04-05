@@ -1,6 +1,6 @@
 # JavaStack
 
-n Java, there are several types of methods that you can define. Here are the most common types:
+In Java, there are several types of methods that you can define. Here are the most common types:
 
 Instance Methods: These methods belong to an instance of a class and are invoked on an object of that class. They can access the instance variables and other instance methods of the class.
 
